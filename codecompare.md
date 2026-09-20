@@ -1,6 +1,8 @@
 # Сравнение языков программирования
  
 ## Hello World
+
+* Обычная программа
  
 <div style="display: flex; gap: 20px;">
 
